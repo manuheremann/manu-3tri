@@ -2,9 +2,9 @@
   --cinza: #aaa;
   --vermelha: #e93d50;
   --vermelha-escura: #af303f;
-  --branca: #FFFFFF;
-  --luz: rgb(21, 129, 7);
-  --preto: #0f46eb;
+  --branca: #0f83b8;
+  --luz: rgb(18, 126, 214);
+  --preto: #8db1c9;
 
 }
 
@@ -51,7 +51,7 @@ h1 {
   color: var(--branca);
   cursor: pointer;
   height: 120px;
-  font-size: 0.8em;
+  font-size: 1.0em;
   font-weight: bold;
   line-height: 120px;
   text-align: center;
